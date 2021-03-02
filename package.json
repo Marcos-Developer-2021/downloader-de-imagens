@@ -1,0 +1,25 @@
+{
+  "name": "downloader-de-imagens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos-Developer-2021/downloader-de-imagens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos-Developer-2021/downloader-de-imagens/issues"
+  },
+  "homepage": "https://github.com/Marcos-Developer-2021/downloader-de-imagens#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
